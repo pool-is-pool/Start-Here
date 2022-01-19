@@ -4,13 +4,13 @@ Below is the summary of projects(will be updated as required)
 
 # Projects with live link
 
-fastapi app with postgresql databse only backend -  https://fastapi-learning.herokuapp.com/docs
+FastAPI app with Postgresql databse only backend -  https://fastapi-learning.herokuapp.com/docs
 
-uses socket.io api on top of express(node.js) server - https://node-socketio-chat-app9.herokuapp.com/
+uses Socket.io api on top of Express(Node.js) server - https://node-socketio-chat-app9.herokuapp.com/
 
-Used React to fetch images from unsplash api and display in browser - https://pics-pool-is-pool.vercel.app/
+Used React to fetch images from Unsplash api and display in browser - https://pics-pool-is-pool.vercel.app/
 
-weather app takes a location find coordinates find realtime weather of that coordinate returns weather -  https://prashants-weather-application.herokuapp.com/
+Weather app takes a location find coordinates find realtime weather of that coordinate and returns weather -  https://prashants-weather-application.herokuapp.com/
 
 
 # Projects not with live links
