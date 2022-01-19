@@ -18,3 +18,8 @@ Weather app takes a location find coordinates find realtime weather of that coor
 React videos - fetching videos from youtube api and displaying
 
 React widgets - Using React Hooks like useState, useRef, useEffect (also wikipedia api)
+
+
+# Project in progress
+
+Simple Node MongoDB REST Api with features like authetication
