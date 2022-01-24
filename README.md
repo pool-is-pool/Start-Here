@@ -15,9 +15,9 @@ Weather app takes a location find coordinates find realtime weather of that coor
 
 # Projects not with live links
 
-React videos - fetching videos from youtube api and displaying
+React videos - fetching videos from youtube api and displaying - https://github.com/pool-is-pool/React-videos
 
-React widgets - Using React Hooks like useState, useRef, useEffect (also wikipedia api)
+React widgets - Using React Hooks like useState, useRef, useEffect (also wikipedia api) - https://github.com/pool-is-pool/React-widgets
 
 
 # Project in progress
